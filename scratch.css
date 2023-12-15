@@ -1,0 +1,91 @@
+body {
+    margin: 0;
+    background-image: url('../images/little_cotton.jpeg');
+    background-repeat: no-repeat;
+    background-size: cover;
+
+  }
+.header{
+    margin-top: 0;
+    font-style: normal;
+    font-size: medium;
+    color:white;
+    float: right;
+    text-decoration: none;
+    
+}
+
+a:visited{
+    text-decoration: none;
+    color: white;
+}
+
+.title{
+    color: white;
+    text-align: center;
+    font-family: cursive;
+    font-size: 60px;
+}
+
+
+.text{
+    color: white;
+    font-weight: lighter;
+    text-align: justify;
+}
+
+.sub{
+    color: white;
+    font-size: 200%;
+    font-weight:bolder;
+    text-align: left;
+    font-style: italic;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+
+.bb{
+    color: white;
+    text-align: justify;
+    margin-right: 50%;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}
+.box {
+    width: 200px;
+    height: 100px;
+    border: 1px solid black;
+    padding: 10px;
+    margin: 10px;
+  }
+
+  .vid {
+    margin-left: 40%;
+    margin-right: 45px;
+    margin-top:60%;
+    margin-bottom: 30px;
+    position: absolute;
+  }
+  
+  .tab{ 
+    margin-left: 10%;
+    margin-right: 10px;
+    margin-top:50px;
+    margin-bottom: 100px;
+    float:inline-end
+
+  }
+
+  .footer{
+    text-align: center;
+    text-shadow: lightslategray;
+    color: white;
+    text-decoration-line: none;
+  }
+
+  .pic{
+    text-align: left;
+    margin-top: 0px;
+    float: left;
+
+  }
